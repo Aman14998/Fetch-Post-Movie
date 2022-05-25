@@ -1,0 +1,8 @@
+{
+    "fetchMovies": "Fetch Movies",
+    "foundNoMovies": "Found No Movies !!!",
+    "loadingMovies": "Loading Movies.....",
+    "title": "Title",
+    "openingText": "Opening Text",
+    "releaseDate": "Release Date"
+}
